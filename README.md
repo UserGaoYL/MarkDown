@@ -1,2 +1,2 @@
 # MarkDown
-Sdudy MarkDown
+Study MarkDown
