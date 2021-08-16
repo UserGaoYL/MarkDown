@@ -308,3 +308,7 @@ public class WheelCollider : Collider
     public extern bool GetGroundHit(out WheelHit hit);
 }
 ```
+
+### 九、性能和效果排行
+
+**collider的性能和效率大概的顺序是：Sphere Collider > Capsule Collider > Box Collider > Mesh Collider**
